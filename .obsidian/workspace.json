@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "a8af7055961ffdc9",
+    "type": "split",
+    "children": [
+      {
+        "id": "af8cfb710c10b65b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d68067f1d217b3ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LLM/Foundation Models/Mistral 7B.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c93afda96f166975",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e68e63f2f9bf027",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd32dfdffc9ec46e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aad4e54ca3b02077",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f3c1a0ec7f75e6d2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3de3b4038c718e7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc51735463080be1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01d59d68561db4f3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "LLM/Foundation Models/Mistral 7B.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b556537ce3bafe6f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "LLM/Foundation Models/Mistral 7B.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "03371c3140044f6c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "59da7a92f0a7fa56",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "LLM/Foundation Models/Mistral 7B.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d68067f1d217b3ff",
+  "lastOpenFiles": [
+    "obsidian",
+    "2024-01-11.md",
+    "LLM/Foundation Models/Foundation models.md",
+    "Untitled.canvas",
+    "Literature review.md",
+    "AD",
+    "CV/CV.md",
+    "CV/Foundation Models/Untitled.md",
+    "CV/Representation Learning",
+    "CV/Foundation Models",
+    "LLM/Foundation Models/LLAMA Pro.md",
+    "CV",
+    "LLM/Untitled.md",
+    "Images/Pasted image 20240111112916.png",
+    "LLM/Foundation Models/Mistral 7B.md",
+    "LLM/LLM.md",
+    "LLM/Foundation Models",
+    "Images",
+    "Images/Pasted image 20240111095514.png",
+    "LLM"
+  ]
+}
