@@ -1,3 +1,3 @@
-[[Foundation models]]
+[[LLM/Foundation Models/Foundation models]]
 
 RAGs

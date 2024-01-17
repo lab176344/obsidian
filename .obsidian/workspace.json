@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM/Foundation Models/Mistral 7B.md",
+                "file": "LLM/Foundation Models/LLAMA Pro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f393b1733e91eef2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CV/Foundation Models/Foundation Models.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLM/Foundation Models/Mistral 7B.md",
+                "file": "CV/Foundation Models/Foundation Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLM/Foundation Models/Mistral 7B.md",
+                "file": "CV/Foundation Models/Foundation Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM/Foundation Models/Mistral 7B.md"
+                "file": "CV/Foundation Models/Foundation Models.md"
               }
             }
           }
@@ -146,24 +159,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d68067f1d217b3ff",
+  "active": "f393b1733e91eef2",
   "lastOpenFiles": [
+    "CV/Foundation Models/OpenVocabulary SAM+CLIP.md",
+    "Images/Pasted image 20240117173709.png",
+    "Images/Pasted image 20240117173610.png",
+    "LLM/Foundation Models/LLAMA Pro.md",
+    "README.md",
+    "LLM/LLM.md",
+    "Literature review.md",
+    "LLM/Foundation Models/Mistral 7B.md",
     "obsidian",
     "2024-01-11.md",
     "LLM/Foundation Models/Foundation models.md",
     "Untitled.canvas",
-    "Literature review.md",
     "AD",
     "CV/CV.md",
-    "CV/Foundation Models/Untitled.md",
+    "CV/Foundation Models/Foundation Models.md",
     "CV/Representation Learning",
     "CV/Foundation Models",
-    "LLM/Foundation Models/LLAMA Pro.md",
     "CV",
     "LLM/Untitled.md",
     "Images/Pasted image 20240111112916.png",
-    "LLM/Foundation Models/Mistral 7B.md",
-    "LLM/LLM.md",
     "LLM/Foundation Models",
     "Images",
     "Images/Pasted image 20240111095514.png",
