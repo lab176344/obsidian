@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CV/Foundation Models/Foundation Models.md",
+                "file": "CV/Foundation Models/OpenVocabulary Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CV/Foundation Models/Foundation Models.md",
+                "file": "CV/Foundation Models/OpenVocabulary Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CV/Foundation Models/Foundation Models.md",
+                "file": "CV/Foundation Models/OpenVocabulary Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CV/Foundation Models/Foundation Models.md"
+                "file": "CV/Foundation Models/OpenVocabulary Learning.md"
               }
             }
           }
@@ -161,6 +161,9 @@
   },
   "active": "f393b1733e91eef2",
   "lastOpenFiles": [
+    "Images/Pasted image 20240121172941.png",
+    "CV/Foundation Models/Foundation Models.md",
+    "CV/Foundation Models/OpenVocabulary Learning.md",
     "CV/Foundation Models/OpenVocabulary SAM+CLIP.md",
     "Images/Pasted image 20240117173709.png",
     "Images/Pasted image 20240117173610.png",
@@ -175,7 +178,6 @@
     "Untitled.canvas",
     "AD",
     "CV/CV.md",
-    "CV/Foundation Models/Foundation Models.md",
     "CV/Representation Learning",
     "CV/Foundation Models",
     "CV",
