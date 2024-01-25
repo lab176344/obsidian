@@ -1,15 +1,8 @@
 
 [[LLM]]
 
-
-
-
-
-
 [[CV]]
 
+[[General ML]]
 
-Representation Learning
-
-Open World Learning
 
