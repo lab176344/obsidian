@@ -4,105 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "af8cfb710c10b65b",
+        "id": "02e4f31366077eda",
         "type": "tabs",
         "children": [
           {
-            "id": "d68067f1d217b3ff",
+            "id": "1c83e26269b686b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM/Foundation Models/LLAMA Pro.md",
+                "file": "LLM/Tabular Data/Chain of Table.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "f393b1733e91eef2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CV/Foundation Models/Open Vocabulary Learning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "420e635db2baeb97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CV/Foundation Models/OVL/OpenVocabulary Learning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "739adf620df7c46d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CV/Foundation Models/OVL/OpenVocabulary SAM+CLIP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6fe195205a9ce500",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CV/Foundation Models/OVL/YOLO-WORLD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e7c02f09dce9e69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CV/Foundation Models/Open Vocabulary Learning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2651b290ca4ff375",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CV/Foundation Models/OVL/OpenVocabulary Learning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3eb71ea796c2753b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Pasted image 20240205133502.png"
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CV/Foundation Models/OVL/YOLO-WORLD.md",
+                "file": "LLM/Tabular Data/Chain of Table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CV/Foundation Models/OVL/YOLO-WORLD.md",
+                "file": "LLM/Tabular Data/Chain of Table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CV/Foundation Models/OVL/YOLO-WORLD.md"
+                "file": "LLM/Tabular Data/Chain of Table.md"
               }
             }
           }
@@ -229,18 +146,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6fe195205a9ce500",
+  "active": "1c83e26269b686b0",
   "lastOpenFiles": [
+    "Images/Pasted image 20240212160735.png",
+    "LLM/Tabular Data/Chain of Table.md",
     "Images/Pasted image 20240205133502.png",
+    "CV/Foundation Models/OVL/OpenVocabulary Learning.md",
+    "CV/Foundation Models/Open Vocabulary Learning.md",
+    "LLM/Foundation Models/LLAMA Pro.md",
+    "Images/Pasted image 20240212160523.png",
+    "LLM/Tabular Data/LLMs for tabular data.md",
+    "CV/Foundation Models/OVL/OpenVocabulary SAM+CLIP.md",
+    "Images/Pasted image 20240212160433.png",
+    "CV/CV.md",
+    "LLM/Tabular Data",
     "CV/Foundation Models/OVL/YOLO-WORLD.md",
     "Images/Pasted image 20240205133441.png",
-    "CV/Foundation Models/Open Vocabulary Learning.md",
-    "CV/Foundation Models/OVL/OpenVocabulary Learning.md",
-    "CV/Foundation Models/OVL/OpenVocabulary SAM+CLIP.md",
     "CV/Foundation Models/OVL",
     "CV/Foundation Models/FM/Untitled",
     "CV/Foundation Models/FM",
-    "CV/CV.md",
     "Literature review.md",
     "Images/Pasted image 20240125224614.png",
     "LLM/Finetuning/Lora.md",
@@ -253,7 +177,6 @@
     "Images/Pasted image 20240121172941.png",
     "Images/Pasted image 20240117173709.png",
     "Images/Pasted image 20240117173610.png",
-    "LLM/Foundation Models/LLAMA Pro.md",
     "README.md",
     "LLM/Foundation Models/Mistral 7B.md",
     "obsidian",
@@ -262,9 +185,6 @@
     "Untitled.canvas",
     "AD",
     "CV/Representation Learning",
-    "CV/Foundation Models",
-    "CV",
-    "Images/Pasted image 20240111112916.png",
-    "Images/Pasted image 20240111095514.png"
+    "CV/Foundation Models"
   ]
 }
