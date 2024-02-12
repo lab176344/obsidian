@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "02e4f31366077eda",
+        "id": "df687cfd3e81a551",
         "type": "tabs",
         "children": [
           {
-            "id": "1c83e26269b686b0",
+            "id": "315d018a75ea7a89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM/Tabular Data/Chain of Table.md",
+                "file": "LLM/Tabular Data/Rethinking Tabular Data Understanding of LLM.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLM/Tabular Data/Chain of Table.md",
+                "file": "LLM/Tabular Data/Rethinking Tabular Data Understanding of LLM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLM/Tabular Data/Chain of Table.md",
+                "file": "LLM/Tabular Data/Rethinking Tabular Data Understanding of LLM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM/Tabular Data/Chain of Table.md"
+                "file": "LLM/Tabular Data/Rethinking Tabular Data Understanding of LLM.md"
               }
             }
           }
@@ -146,37 +146,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c83e26269b686b0",
+  "active": "315d018a75ea7a89",
   "lastOpenFiles": [
-    "Images/Pasted image 20240212160735.png",
+    "Images/Pasted image 20240212215748.png",
+    "LLM/Tabular Data/Rethinking Tabular Data Understanding of LLM.md",
+    "LLM/Tabular Data/LLMs for tabular data.md",
+    "Images/Pasted image 20240212215731.png",
+    "Images/Pasted image 20240212215710 1.png",
+    "Images/Pasted image 20240212215710.png",
+    "Images/Pasted image 20240212213945.png",
     "LLM/Tabular Data/Chain of Table.md",
+    "Images/Pasted image 20240212212738.png",
+    "Images/Pasted image 20240212212717.png",
+    "Images/Pasted image 20240212160735.png",
     "Images/Pasted image 20240205133502.png",
     "CV/Foundation Models/OVL/OpenVocabulary Learning.md",
     "CV/Foundation Models/Open Vocabulary Learning.md",
     "LLM/Foundation Models/LLAMA Pro.md",
     "Images/Pasted image 20240212160523.png",
-    "LLM/Tabular Data/LLMs for tabular data.md",
     "CV/Foundation Models/OVL/OpenVocabulary SAM+CLIP.md",
-    "Images/Pasted image 20240212160433.png",
     "CV/CV.md",
     "LLM/Tabular Data",
     "CV/Foundation Models/OVL/YOLO-WORLD.md",
-    "Images/Pasted image 20240205133441.png",
     "CV/Foundation Models/OVL",
     "CV/Foundation Models/FM/Untitled",
     "CV/Foundation Models/FM",
     "Literature review.md",
-    "Images/Pasted image 20240125224614.png",
     "LLM/Finetuning/Lora.md",
-    "Images/Pasted image 20240124232620.png",
     "LLM/LLM.md",
     "LLM/Finetuning",
     "General ML/General ML.md",
     "General ML",
     "LLM/Untitled.md",
-    "Images/Pasted image 20240121172941.png",
-    "Images/Pasted image 20240117173709.png",
-    "Images/Pasted image 20240117173610.png",
     "README.md",
     "LLM/Foundation Models/Mistral 7B.md",
     "obsidian",

@@ -10,4 +10,12 @@ add more context
 Papers
 
 [[Chain of Table]]
-uses a step by step iterative way to understand the table 
+
+Uses a step by step iterative way to understand the table 
+
+[[Rethinking Tabular Data Understanding of LLM]]
+
+
+
+
+
