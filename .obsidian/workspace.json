@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM/Tabular Data/Rethinking Tabular Data Understanding of LLM.md",
+                "file": "CV/Foundation Models/Open Vocabulary Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLM/Tabular Data/Rethinking Tabular Data Understanding of LLM.md",
+                "file": "CV/Foundation Models/Open Vocabulary Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLM/Tabular Data/Rethinking Tabular Data Understanding of LLM.md",
+                "file": "CV/Foundation Models/Open Vocabulary Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM/Tabular Data/Rethinking Tabular Data Understanding of LLM.md"
+                "file": "CV/Foundation Models/Open Vocabulary Learning.md"
               }
             }
           }
@@ -148,22 +148,23 @@
   },
   "active": "315d018a75ea7a89",
   "lastOpenFiles": [
-    "Images/Pasted image 20240212215748.png",
+    "CV/Foundation Models/OVL/OpenVocabulary Learning.md",
+    "CV/Foundation Models/OVL/Grounding DINO.md",
+    "Images/Pasted image 20240215193957.png",
     "LLM/Tabular Data/Rethinking Tabular Data Understanding of LLM.md",
+    "LLM/Tabular Data/Chain of Table.md",
+    "Images/Pasted image 20240212215748.png",
     "LLM/Tabular Data/LLMs for tabular data.md",
     "Images/Pasted image 20240212215731.png",
     "Images/Pasted image 20240212215710 1.png",
     "Images/Pasted image 20240212215710.png",
     "Images/Pasted image 20240212213945.png",
-    "LLM/Tabular Data/Chain of Table.md",
     "Images/Pasted image 20240212212738.png",
     "Images/Pasted image 20240212212717.png",
     "Images/Pasted image 20240212160735.png",
     "Images/Pasted image 20240205133502.png",
-    "CV/Foundation Models/OVL/OpenVocabulary Learning.md",
     "CV/Foundation Models/Open Vocabulary Learning.md",
     "LLM/Foundation Models/LLAMA Pro.md",
-    "Images/Pasted image 20240212160523.png",
     "CV/Foundation Models/OVL/OpenVocabulary SAM+CLIP.md",
     "CV/CV.md",
     "LLM/Tabular Data",

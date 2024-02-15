@@ -5,7 +5,8 @@
 * Symbolic reasoning good at precise location tasks but can lack semantic depth
 * Can lead to not clean outputs as keys not present in table
 * Textual reasoning can provide semantic information but can lead to hallucination  
-![[Pasted image 20240212215748.png]]
+
+[[Pasted image 20240212215748.png]]
 
 
 
