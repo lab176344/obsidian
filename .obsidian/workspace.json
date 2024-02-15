@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CV/Foundation Models/Open Vocabulary Learning.md",
+                "file": "LLM/LLM.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CV/Foundation Models/Open Vocabulary Learning.md",
+                "file": "LLM/LLM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CV/Foundation Models/Open Vocabulary Learning.md",
+                "file": "LLM/LLM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CV/Foundation Models/Open Vocabulary Learning.md"
+                "file": "LLM/LLM.md"
               }
             }
           }
@@ -148,6 +148,14 @@
   },
   "active": "315d018a75ea7a89",
   "lastOpenFiles": [
+    "LLM/Foundation Models/Foundation models.md",
+    "LLM/Finetuning/Finetuning.md",
+    "LLM/Tabular Data/Tabular Data.md",
+    "LLM/LLM.md",
+    "CV/Foundation Models/Open Vocabulary Learning.md",
+    "4. Grounding DINO.md",
+    "General ML/General ML.md",
+    "LLM/Finetuning/Lora.md",
     "CV/Foundation Models/OVL/OpenVocabulary Learning.md",
     "CV/Foundation Models/OVL/Grounding DINO.md",
     "Images/Pasted image 20240215193957.png",
@@ -163,7 +171,6 @@
     "Images/Pasted image 20240212212717.png",
     "Images/Pasted image 20240212160735.png",
     "Images/Pasted image 20240205133502.png",
-    "CV/Foundation Models/Open Vocabulary Learning.md",
     "LLM/Foundation Models/LLAMA Pro.md",
     "CV/Foundation Models/OVL/OpenVocabulary SAM+CLIP.md",
     "CV/CV.md",
@@ -173,17 +180,13 @@
     "CV/Foundation Models/FM/Untitled",
     "CV/Foundation Models/FM",
     "Literature review.md",
-    "LLM/Finetuning/Lora.md",
-    "LLM/LLM.md",
     "LLM/Finetuning",
-    "General ML/General ML.md",
     "General ML",
     "LLM/Untitled.md",
     "README.md",
     "LLM/Foundation Models/Mistral 7B.md",
     "obsidian",
     "2024-01-11.md",
-    "LLM/Foundation Models/Foundation models.md",
     "Untitled.canvas",
     "AD",
     "CV/Representation Learning",

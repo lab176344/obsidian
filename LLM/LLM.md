@@ -1,3 +1,5 @@
 [[LLM/Foundation Models/Foundation models]]
 
-RAGs
+[[Tabular data]]
+
+[[Finetuning]]
