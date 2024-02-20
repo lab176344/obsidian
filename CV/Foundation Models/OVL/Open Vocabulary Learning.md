@@ -1,11 +1,13 @@
 
-
+Papers covering the OVL learning in object detection space
 
 **Papers**
 
 1. [[OpenVocabulary SAM+CLIP]]
 
-2. [[OpenVocabulary Learning]]
+Combiling SAM and CLIP to do OVL with SAM doing segmentation and CLIP doing classification
+
+3. [[OpenVocabulary Learning]]
 
 Fine tuning CLIP like text encoder and visual encoder  to do object detection 
 

@@ -11,12 +11,8 @@
             "id": "315d018a75ea7a89",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LLM/LLM.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLM/LLM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLM/LLM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "LLM/LLM.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,16 +140,21 @@
   },
   "active": "315d018a75ea7a89",
   "lastOpenFiles": [
-    "LLM/Foundation Models/Foundation models.md",
     "LLM/Finetuning/Finetuning.md",
-    "LLM/Tabular Data/Tabular Data.md",
+    "Literature review.md",
     "LLM/LLM.md",
-    "CV/Foundation Models/Open Vocabulary Learning.md",
+    "LLM/Tabular Data/Tabular Data.md",
+    "LLM/Foundation Models/Foundation models.md",
+    "CV/Computer Vision.md",
+    "CV/Foundation Models/OVL/Open Vocabulary Learning.md",
+    "CV/Foundation Models/OVL/Grounding DINO.md",
+    "CV/Representation Learning/Representation Learning.md",
+    "CV/Representation Learning/V-JEPA.md",
+    "CV/Representation Learning/JEPA.md",
+    "CV/Foundation Models/OVL/OpenVocabulary Learning.md",
     "4. Grounding DINO.md",
     "General ML/General ML.md",
     "LLM/Finetuning/Lora.md",
-    "CV/Foundation Models/OVL/OpenVocabulary Learning.md",
-    "CV/Foundation Models/OVL/Grounding DINO.md",
     "Images/Pasted image 20240215193957.png",
     "LLM/Tabular Data/Rethinking Tabular Data Understanding of LLM.md",
     "LLM/Tabular Data/Chain of Table.md",
@@ -173,13 +170,11 @@
     "Images/Pasted image 20240205133502.png",
     "LLM/Foundation Models/LLAMA Pro.md",
     "CV/Foundation Models/OVL/OpenVocabulary SAM+CLIP.md",
-    "CV/CV.md",
     "LLM/Tabular Data",
     "CV/Foundation Models/OVL/YOLO-WORLD.md",
     "CV/Foundation Models/OVL",
     "CV/Foundation Models/FM/Untitled",
     "CV/Foundation Models/FM",
-    "Literature review.md",
     "LLM/Finetuning",
     "General ML",
     "LLM/Untitled.md",

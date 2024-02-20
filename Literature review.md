@@ -1,7 +1,7 @@
 
 [[LLM]]
 
-[[CV]]
+[[Computer Vision]]
 
 [[General ML]]
 
