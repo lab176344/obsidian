@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b8412edb2270f681",
+        "id": "a8a37c7599a816c1",
         "type": "tabs",
         "children": [
           {
-            "id": "82875c64aa5eeadb",
+            "id": "5feb85b255b8a108",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CV/Representation Learning/V-JEPA.md",
+                "file": "CV/Foundation Models/Image retrival/Image retrival.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CV/Representation Learning/V-JEPA.md",
+                "file": "CV/Foundation Models/Image retrival/Image retrival.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CV/Representation Learning/V-JEPA.md",
+                "file": "CV/Foundation Models/Image retrival/Image retrival.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CV/Representation Learning/V-JEPA.md"
+                "file": "CV/Foundation Models/Image retrival/Image retrival.md"
               }
             }
           }
@@ -146,10 +146,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "82875c64aa5eeadb",
+  "active": "5feb85b255b8a108",
   "lastOpenFiles": [
+    "CV/Foundation Models/Image retrival/VideoAgent - Long-form Video Understanding with Large Language Model as Agent.md",
+    "CV/Foundation Models/Image retrival/Magic Lens - Self-Supervised Image Retrieval with Open-Ended Instructions.md",
+    "CV/Foundation Models/Image retrival/Image retrival.md",
+    "Untitled.canvas",
+    "Images/Pasted image 20240402230142.png",
+    "Images/OVL/Pasted image 20240402230116.png",
+    "Images/Pasted image 20240402230056.png",
+    "Literature review.md",
+    "README.md",
+    "CV/Computer Vision.md",
+    "CV/Foundation Models/Image retrival",
+    "Images/OVL/YOLO-WORLD.md",
+    "Images/OVL/OpenVocabulary Learning.md",
+    "Images/OVL/Open Vocabulary Learning.md",
+    "General ML/General ML.md",
+    "CV/Representation Learning/V-JEPA.md",
     "CV/Representation Learning/Representation Learning.md",
-    "CV/Representation Learning/JEPA.md",
-    "CV/Representation Learning/V-JEPA.md"
+    "CV/Representation Learning/JEPA.md"
   ]
 }
