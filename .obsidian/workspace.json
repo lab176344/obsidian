@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a8a37c7599a816c1",
+        "id": "51220993c9c753ee",
         "type": "tabs",
         "children": [
           {
-            "id": "5feb85b255b8a108",
+            "id": "5d6d54fa82713844",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:\"CV/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -138,14 +139,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5feb85b255b8a108",
+  "active": "e60fac14b05d4130",
   "lastOpenFiles": [
+    "Untitled.canvas",
     "CV/Foundation Models/Image retrival/Image retrival.md",
     "CV/Foundation Models/Image retrival/Scaling (Down) CLIP  A Comprehensive Analysis of Data, Architecture, and Training Strategies.md",
     "CV/Foundation Models/Image retrival/VideoAgent - Long-form Video Understanding with Large Language Model as Agent.md",
     "Images/Pasted image 20240418134914.png",
     "CV/Foundation Models/Image retrival/Magic Lens - Self-Supervised Image Retrieval with Open-Ended Instructions.md",
-    "Untitled.canvas",
     "Images/Pasted image 20240402230142.png",
     "Images/OVL/Pasted image 20240402230116.png",
     "Images/Pasted image 20240402230056.png",
