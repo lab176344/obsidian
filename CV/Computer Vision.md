@@ -6,7 +6,5 @@ Topics related to CV
 
 [[Image retrival]]
 
-
-
-
+[[VLM]]
 
