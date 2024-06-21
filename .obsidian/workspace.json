@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CV/Foundation Models/VLM/What matters when building a VLM.md",
+                "file": "CV/Foundation Models/VLM/VLM.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CV/Foundation Models/VLM/What matters when building a VLM.md",
+                "file": "CV/Foundation Models/VLM/VLM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CV/Foundation Models/VLM/What matters when building a VLM.md",
+                "file": "CV/Foundation Models/VLM/VLM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CV/Foundation Models/VLM/What matters when building a VLM.md"
+                "file": "CV/Foundation Models/VLM/VLM.md"
               }
             }
           }
@@ -159,17 +159,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b916af3bdcc54528",
+  "active": "7b27c59e7c12c9ea",
   "lastOpenFiles": [
-    "CV/Foundation Models/VLM/VLM.md",
+    "CV/Foundation Models/Image retrival/VideoAgent - Long-form Video Understanding with Large Language Model as Agent.md",
+    "CV/Foundation Models/VLM/Alpha-CLIP - A CLIP Model Focusing on Wherever You Want.md",
+    "Images/Pasted image 20240621141058.png",
     "CV/Computer Vision.md",
+    "CV/Foundation Models/VLM/VLM.md",
     "CV/Foundation Models/VLM/What matters when building a VLM.md",
     "CV/Foundation Models/VLM",
     "Literature review.md",
     "Untitled.canvas",
     "CV/Foundation Models/Image retrival/Image retrival.md",
     "CV/Foundation Models/Image retrival/Scaling (Down) CLIP  A Comprehensive Analysis of Data, Architecture, and Training Strategies.md",
-    "CV/Foundation Models/Image retrival/VideoAgent - Long-form Video Understanding with Large Language Model as Agent.md",
     "Images/Pasted image 20240418134914.png",
     "CV/Foundation Models/Image retrival/Magic Lens - Self-Supervised Image Retrieval with Open-Ended Instructions.md",
     "Images/Pasted image 20240402230142.png",
