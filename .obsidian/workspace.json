@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CV/Foundation Models/VLM/VLM.md",
+                "file": "CV/Foundation Models/VLM/Florence 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CV/Foundation Models/VLM/VLM.md",
+                "file": "CV/Foundation Models/VLM/Florence 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CV/Foundation Models/VLM/VLM.md",
+                "file": "CV/Foundation Models/VLM/Florence 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CV/Foundation Models/VLM/VLM.md"
+                "file": "CV/Foundation Models/VLM/Florence 2.md"
               }
             }
           }
@@ -161,11 +161,13 @@
   },
   "active": "7b27c59e7c12c9ea",
   "lastOpenFiles": [
+    "Images/Pasted image 20240625095614.png",
+    "CV/Foundation Models/VLM/VLM.md",
+    "CV/Foundation Models/VLM/Florence 2.md",
     "CV/Foundation Models/Image retrival/VideoAgent - Long-form Video Understanding with Large Language Model as Agent.md",
     "CV/Foundation Models/VLM/Alpha-CLIP - A CLIP Model Focusing on Wherever You Want.md",
     "Images/Pasted image 20240621141058.png",
     "CV/Computer Vision.md",
-    "CV/Foundation Models/VLM/VLM.md",
     "CV/Foundation Models/VLM/What matters when building a VLM.md",
     "CV/Foundation Models/VLM",
     "Literature review.md",
