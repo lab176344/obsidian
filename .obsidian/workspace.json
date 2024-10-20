@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "51220993c9c753ee",
+        "id": "df47f8146189b402",
         "type": "tabs",
         "children": [
           {
-            "id": "5d6d54fa82713844",
+            "id": "8c521287a290b10c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CV/Computer Vision.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b27c59e7c12c9ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CV/Foundation Models/VLM/VLM.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CV/Foundation Models/VLM/VLM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CV/Foundation Models/VLM/VLM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CV/Foundation Models/VLM/VLM.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,34 +138,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b27c59e7c12c9ea",
+  "active": "b916af3bdcc54528",
   "lastOpenFiles": [
-    "CV/Computer Vision.md",
-    "Untitled.canvas",
+    "CV/Foundation Models/VLM/VLM2VEC -  TRAINING VISION-LANGUAGE MODELSFOR MASSIVE MULTIMODAL EMBEDDING TASKS.md",
     "CV/Foundation Models/VLM/Florence 2.md",
-    "Images/Pasted image 20240625095614.png",
+    "CV/Foundation Models/VLM/LLaVA-Critic -  Learning to Evaluate Multimodal Models.md",
     "CV/Foundation Models/VLM/VLM.md",
-    "CV/Foundation Models/Image retrival/VideoAgent - Long-form Video Understanding with Large Language Model as Agent.md",
+    "VLM2VEC -  TRAINING VISION-LANGUAGE MODELSFOR MASSIVE MULTIMODAL EMBEDDING TASKS.md",
+    "Images/Pasted image 20241018215244.png",
+    "Images/Pasted image 20241018215439.png",
+    "CV/Foundation Models/VLM/LLAVA - Video - VIDEO INSTRUCTION TUNING WITH SYNTHETIC DATA.md",
+    "Useful tools.md",
+    "Images/Pasted image 20241018153545.png",
+    "Images/Pasted image 20241018155825.png",
+    "CV/Foundation Models/VLM/LLAVA - Critic.md",
+    "CV/Foundation Models/VLM/One Token to Seg Them All -  Language InstructedReasoning Segmentation in Videos.md",
+    "().md",
+    "CV/Foundation Models/VLM/Segment Anything 2 + Grounding Dino.md",
     "CV/Foundation Models/VLM/Alpha-CLIP - A CLIP Model Focusing on Wherever You Want.md",
-    "Images/Pasted image 20240621141058.png",
-    "CV/Foundation Models/VLM/What matters when building a VLM.md",
-    "CV/Foundation Models/VLM",
-    "Literature review.md",
-    "CV/Foundation Models/Image retrival/Image retrival.md",
-    "CV/Foundation Models/Image retrival/Scaling (Down) CLIP  A Comprehensive Analysis of Data, Architecture, and Training Strategies.md",
-    "Images/Pasted image 20240418134914.png",
-    "CV/Foundation Models/Image retrival/Magic Lens - Self-Supervised Image Retrieval with Open-Ended Instructions.md",
-    "Images/Pasted image 20240402230142.png",
-    "Images/OVL/Pasted image 20240402230116.png",
-    "Images/Pasted image 20240402230056.png",
-    "README.md",
-    "CV/Foundation Models/Image retrival",
-    "Images/OVL/YOLO-WORLD.md",
-    "Images/OVL/OpenVocabulary Learning.md",
-    "Images/OVL/Open Vocabulary Learning.md",
+    "LLM/Tabular Data/Tabular Data.md",
+    "Untitled.canvas",
+    "LLM/Tabular Data/Rethinking Tabular Data Understanding of LLM.md",
+    "LLM/Tabular Data/LLMs for tabular data.md",
+    "LLM/Tabular Data/Chain of Table.md",
+    "LLM/Foundation Models/Foundation models.md",
+    "LLM/Finetuning/Finetuning.md",
+    "LLM/LLM.md",
+    "LLM/Finetuning/Lora.md",
     "General ML/General ML.md",
-    "CV/Representation Learning/V-JEPA.md",
+    "General ML/Lora reducing rank.md",
     "CV/Representation Learning/Representation Learning.md",
-    "CV/Representation Learning/JEPA.md"
+    "CV/Foundation Models/Image retrival/Image retrieval.md",
+    "CV/Foundation Models/VLM/LingoQA Video Question Answering for Autonomous Driving.md",
+    "CV/Foundation Models/VLM/What matters when building a VLM.md",
+    "Images/Pasted image 20241018141050.png",
+    "Images/Pasted image 20241018132946.png",
+    "Images/Pasted image 20240625095614.png",
+    "Images/Pasted image 20240621141058.png",
+    "CV/Foundation Models/VLM",
+    "Images/Pasted image 20240418134914.png",
+    "Images/Pasted image 20240402230142.png",
+    "CV/Foundation Models/Image retrival"
   ]
 }

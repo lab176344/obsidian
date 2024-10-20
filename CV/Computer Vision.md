@@ -4,7 +4,7 @@ Topics related to CV
 
 [[Open Vocabulary Learning]]
 
-[[Image retrival]]
+[[Image retrieval]]
 
 [[VLM]]
 
